@@ -1,0 +1,5 @@
+const AUTH_SERVER_PORT = 3010;
+const SERVICES_SERVER_PORT = 3005;
+const JWT_SECRET = 'jwtSecret';
+const REDIS_TOKEN_EXPIRY = 3600 // in seconds
+const MONGODB_PORT = 27017
